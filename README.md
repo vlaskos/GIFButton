@@ -1,7 +1,5 @@
 # GifButton
 
-Made by [![Appus Studio](https://github.com/appus-studio/Appus-Splash/blob/master/image/logo.png)](http://appus.pro)
-
 'GifButton' is an animated button
 
 * [Demo](#demo)
@@ -32,7 +30,7 @@ self.gifButton.repeatCount = 1; // set repeat count programmatically
 Developed By
 ------------
 
-* Alexey Kubas,Kosyi Vlad, Appus Studio
+* Kosyi Vlad, Alexey Kubas, Appus Studio
 
 License
 --------
