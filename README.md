@@ -4,12 +4,13 @@
 
 * [Demo](#demo)
 * [Example animating](#example-animating)
+* [Example configuring](#Example configuring)
 * [Usage example](#usage-example)
 
 # Demo
-##Example animating
+#Example animating
 ![](https://raw.githubusercontent.com/alexey-kubas-appus/GifButton/master/Resources/gif.gif)
-##Example configuring
+#Example configuring
 ![](https://raw.githubusercontent.com/alexey-kubas-appus/GifButton/master/Resources/usage1.png)
 ![](https://raw.githubusercontent.com/alexey-kubas-appus/GifButton/master/Resources/usage2.png)
 ```Ruby
