@@ -5,7 +5,6 @@
 * [Demo](#demo)
 * [Example animating](#example-animating)
 * [Usage example](#usage-example)
-* [Info](#info)
 
 # Demo
 ##Example animating
@@ -17,7 +16,7 @@
 pod 'GifButton'
 ```
 
-##Usage example:
+#Usage example:
 
 All settings setting in IB StoryBoard.
 
