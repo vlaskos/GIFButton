@@ -3,8 +3,6 @@
 'GifButton' is an animated button
 
 * [Demo](#demo)
-* [Example animating](#example-animating)
-* [Example configuring](#Example configuring)
 * [Usage example](#usage-example)
 
 # Demo
