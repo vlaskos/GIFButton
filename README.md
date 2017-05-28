@@ -15,7 +15,7 @@
 pod 'GifButton'
 ```
 
-#Usage example:
+# Usage example:
 
 All settings setting in IB StoryBoard.
 
